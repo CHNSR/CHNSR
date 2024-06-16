@@ -1,8 +1,7 @@
 - 👋 Hi, I’m @CHNSR
-- 👀 I’m interested in Java Python
-- 🌱 I’m currently learning computer scince
-- 💞️ I’m looking to collaborate on --
-- 📫 How to reach me --
+- 👀 I’m interested in Mobile developer(Flutter) and website baseo n PHP 
+- 🌱 I’m currently learning computer scince in Nareasuan University
+- 📫 How to reach me chanonsukrod@gmail.com
 
 <!---
 CHNSR/CHNSR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
