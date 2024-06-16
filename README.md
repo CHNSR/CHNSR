@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @CHNSR
-- 👀 I’m interested in Mobile developer(Flutter) and website baseo n PHP 
+- 👀 I’m interested in Mobile developer(Flutter) and website base on PHP 
 - 🌱 I’m currently learning computer scince in Nareasuan University
 - 📫 How to reach me chanonsukrod@gmail.com
 
